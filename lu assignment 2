@@ -1,0 +1,6 @@
+def add_list(mem):
+    sum= 0
+    for i in mem:
+    return sum
+x=[8,2,3,0,5]
+print(add_list((x)))
